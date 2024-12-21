@@ -1,0 +1,1 @@
+my @array = (1, 2, 3); foreach my $i (@array) { print "$i\n"; if ($i == 2) { print "Condition met, continuing...\n"; } } print "Finished loop\n";
